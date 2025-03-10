@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA6B5B5-D2D0-4EC2-B729-0E55B4749B1F}|Lap3.6\\Lab3.6.csproj|d:\\college\\skills\\full stack\\iti\\intro to c#\\iti-oop-labs\\lab3\\lap3.6\\lab3.6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EDA6B5B5-D2D0-4EC2-B729-0E55B4749B1F}|Lap3.6\\Lab3.6.csproj|solutionrelative:lap3.6\\lab3.6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A1902E-8E78-4C42-864E-3EF955309B4C}|Lap3.5\\Lab3.5.csproj|d:\\college\\skills\\full stack\\iti\\intro to c#\\iti-oop-labs\\lab3\\lap3.5\\lab3.5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{58A1902E-8E78-4C42-864E-3EF955309B4C}|Lap3.5\\Lab3.5.csproj|solutionrelative:lap3.5\\lab3.5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8217C09C-6648-42C0-8F71-7D68E11C9FD1}|Lap3.4\\Lab3.4.csproj|d:\\college\\skills\\full stack\\iti\\intro to c#\\iti-oop-labs\\lab3\\lap3.4\\lab3.4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8217C09C-6648-42C0-8F71-7D68E11C9FD1}|Lap3.4\\Lab3.4.csproj|solutionrelative:lap3.4\\lab3.4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB3259C-5461-4882-9B57-CCFDF183400E}|Lap3.3\\Lab3.3.csproj|d:\\college\\skills\\full stack\\iti\\intro to c#\\iti-oop-labs\\lab3\\lap3.3\\lab3.3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8FB3259C-5461-4882-9B57-CCFDF183400E}|Lap3.3\\Lab3.3.csproj|solutionrelative:lap3.3\\lab3.3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC781828-B962-4F5C-8E6C-DA3D2533CBAC}|Lap3.2\\Lab3.2.csproj|d:\\college\\skills\\full stack\\iti\\intro to c#\\iti-oop-labs\\lab3\\lap3.2\\lab3.2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FC781828-B962-4F5C-8E6C-DA3D2533CBAC}|Lap3.2\\Lab3.2.csproj|solutionrelative:lap3.2\\lab3.2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB3259C-5461-4882-9B57-CCFDF183400E}|Lap3.3\\Lap3.3.csproj|d:\\college\\skills\\full stack\\iti\\intro to c#\\iti-oop-labs\\lab3\\lap3.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FB3259C-5461-4882-9B57-CCFDF183400E}|Lap3.3\\Lap3.3.csproj|solutionrelative:lap3.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCE328A-D295-4D72-BADE-3C94C188D6E9}|Lap3.7\\Lap3.7.csproj|d:\\college\\skills\\full stack\\iti\\intro to c#\\iti-oop-labs\\lab3\\lap3.7\\complex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCE328A-D295-4D72-BADE-3C94C188D6E9}|Lap3.7\\Lap3.7.csproj|solutionrelative:lap3.7\\complex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA6B5B5-D2D0-4EC2-B729-0E55B4749B1F}|Lap3.6\\Lap3.6.csproj|d:\\college\\skills\\full stack\\iti\\intro to c#\\iti-oop-labs\\lab3\\lap3.6\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDA6B5B5-D2D0-4EC2-B729-0E55B4749B1F}|Lap3.6\\Lap3.6.csproj|solutionrelative:lap3.6\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A1902E-8E78-4C42-864E-3EF955309B4C}|Lap3.5\\Lap3.5.csproj|d:\\college\\skills\\full stack\\iti\\intro to c#\\iti-oop-labs\\lab3\\lap3.5\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A1902E-8E78-4C42-864E-3EF955309B4C}|Lap3.5\\Lap3.5.csproj|solutionrelative:lap3.5\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8217C09C-6648-42C0-8F71-7D68E11C9FD1}|Lap3.4\\Lap3.4.csproj|d:\\college\\skills\\full stack\\iti\\intro to c#\\iti-oop-labs\\lab3\\lap3.4\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8217C09C-6648-42C0-8F71-7D68E11C9FD1}|Lap3.4\\Lap3.4.csproj|solutionrelative:lap3.4\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8217C09C-6648-42C0-8F71-7D68E11C9FD1}|Lap3.4\\Lap3.4.csproj|d:\\college\\skills\\full stack\\iti\\intro to c#\\iti-oop-labs\\lab3\\lap3.4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8217C09C-6648-42C0-8F71-7D68E11C9FD1}|Lap3.4\\Lap3.4.csproj|solutionrelative:lap3.4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC781828-B962-4F5C-8E6C-DA3D2533CBAC}|Lap3.2\\Lap3.2.csproj|d:\\college\\skills\\full stack\\iti\\intro to c#\\iti-oop-labs\\lab3\\lap3.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC781828-B962-4F5C-8E6C-DA3D2533CBAC}|Lap3.2\\Lap3.2.csproj|solutionrelative:lap3.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91A0D45-E8C0-40F3-91D4-17F775EEB9FB}|Lap3.1\\Lap3.1.csproj|d:\\college\\skills\\full stack\\iti\\intro to c#\\iti-oop-labs\\lab3\\lap3.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91A0D45-E8C0-40F3-91D4-17F775EEB9FB}|Lap3.1\\Lap3.1.csproj|solutionrelative:lap3.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCE328A-D295-4D72-BADE-3C94C188D6E9}|Lap3.7\\Lap3.7.csproj|d:\\college\\skills\\full stack\\iti\\intro to c#\\iti-oop-labs\\lab3\\lap3.7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCE328A-D295-4D72-BADE-3C94C188D6E9}|Lap3.7\\Lap3.7.csproj|solutionrelative:lap3.7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA6B5B5-D2D0-4EC2-B729-0E55B4749B1F}|Lap3.6\\Lap3.6.csproj|d:\\college\\skills\\full stack\\iti\\intro to c#\\iti-oop-labs\\lab3\\lap3.6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDA6B5B5-D2D0-4EC2-B729-0E55B4749B1F}|Lap3.6\\Lap3.6.csproj|solutionrelative:lap3.6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A1902E-8E78-4C42-864E-3EF955309B4C}|Lap3.5\\Lap3.5.csproj|d:\\college\\skills\\full stack\\iti\\intro to c#\\iti-oop-labs\\lab3\\lap3.5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A1902E-8E78-4C42-864E-3EF955309B4C}|Lap3.5\\Lap3.5.csproj|solutionrelative:lap3.5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab3.6.csproj",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lab3\\Lap3.6\\Lab3.6.csproj",
+              "RelativeDocumentMoniker": "Lap3.6\\Lab3.6.csproj",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lab3\\Lap3.6\\Lab3.6.csproj",
+              "RelativeToolTip": "Lap3.6\\Lab3.6.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-10T11:32:21.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab3.5.csproj",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lab3\\Lap3.5\\Lab3.5.csproj",
+              "RelativeDocumentMoniker": "Lap3.5\\Lab3.5.csproj",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lab3\\Lap3.5\\Lab3.5.csproj",
+              "RelativeToolTip": "Lap3.5\\Lab3.5.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-10T11:32:14.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lab3.4.csproj",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lab3\\Lap3.4\\Lab3.4.csproj",
+              "RelativeDocumentMoniker": "Lap3.4\\Lab3.4.csproj",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lab3\\Lap3.4\\Lab3.4.csproj",
+              "RelativeToolTip": "Lap3.4\\Lab3.4.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-10T11:31:56.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lab3.3.csproj",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lab3\\Lap3.3\\Lab3.3.csproj",
+              "RelativeDocumentMoniker": "Lap3.3\\Lab3.3.csproj",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lab3\\Lap3.3\\Lab3.3.csproj",
+              "RelativeToolTip": "Lap3.3\\Lab3.3.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-10T11:31:50.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lab3.2.csproj",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lab3\\Lap3.2\\Lab3.2.csproj",
+              "RelativeDocumentMoniker": "Lap3.2\\Lab3.2.csproj",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lab3\\Lap3.2\\Lab3.2.csproj",
+              "RelativeToolTip": "Lap3.2\\Lab3.2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-10T11:31:42.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lab3\\Lap3.7\\Program.cs",
+              "RelativeDocumentMoniker": "Lap3.7\\Program.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lab3\\Lap3.7\\Program.cs",
+              "RelativeToolTip": "Lap3.7\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T13:18:43.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Point.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lab3\\Lap3.6\\Point.cs",
+              "RelativeDocumentMoniker": "Lap3.6\\Point.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lab3\\Lap3.6\\Point.cs",
+              "RelativeToolTip": "Lap3.6\\Point.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T13:06:57.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lab3\\Lap3.6\\Program.cs",
+              "RelativeDocumentMoniker": "Lap3.6\\Program.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lab3\\Lap3.6\\Program.cs",
+              "RelativeToolTip": "Lap3.6\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T13:06:36.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lab3\\Lap3.5\\BankAccount.cs",
+              "RelativeDocumentMoniker": "Lap3.5\\BankAccount.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lab3\\Lap3.5\\BankAccount.cs",
+              "RelativeToolTip": "Lap3.5\\BankAccount.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAwwEgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T12:29:04.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lab3\\Lap3.5\\Program.cs",
+              "RelativeDocumentMoniker": "Lap3.5\\Program.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lab3\\Lap3.5\\Program.cs",
+              "RelativeToolTip": "Lap3.5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFkAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T12:28:10.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Emp.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lab3\\Lap3.4\\Emp.cs",
+              "RelativeDocumentMoniker": "Lap3.4\\Emp.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lab3\\Lap3.4\\Emp.cs",
+              "RelativeToolTip": "Lap3.4\\Emp.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAkwBcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T12:00:26.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lab3\\Lap3.4\\Program.cs",
+              "RelativeDocumentMoniker": "Lap3.4\\Program.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lab3\\Lap3.4\\Program.cs",
+              "RelativeToolTip": "Lap3.4\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwDcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T11:58:59.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lab3\\Lap3.3\\Program.cs",
+              "RelativeDocumentMoniker": "Lap3.3\\Program.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lab3\\Lap3.3\\Program.cs",
+              "RelativeToolTip": "Lap3.3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T11:41:50.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Complex.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lab3\\Lap3.7\\Complex.cs",
+              "RelativeDocumentMoniker": "Lap3.7\\Complex.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lab3\\Lap3.7\\Complex.cs",
+              "RelativeToolTip": "Lap3.7\\Complex.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T13:22:46.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lab3\\Lap3.1\\Program.cs",
+              "RelativeDocumentMoniker": "Lap3.1\\Program.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lab3\\Lap3.1\\Program.cs",
+              "RelativeToolTip": "Lap3.1\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwBcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T10:54:43.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lab3\\Lap3.2\\Program.cs",
+              "RelativeDocumentMoniker": "Lap3.2\\Program.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lab3\\Lap3.2\\Program.cs",
+              "RelativeToolTip": "Lap3.2\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T11:22:05.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

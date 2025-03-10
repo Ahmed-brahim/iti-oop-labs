@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lap4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A19F8FF5-368A-4F28-A89D-65F0A2B58307}|Lap4.2\\Lap4.2.csproj|d:\\college\\skills\\full stack\\iti\\intro to c#\\iti-oop-labs\\lap4\\lap4.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19F8FF5-368A-4F28-A89D-65F0A2B58307}|Lap4.2\\Lap4.2.csproj|solutionrelative:lap4.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19F8FF5-368A-4F28-A89D-65F0A2B58307}|Lap4.2\\Lap4.2.csproj|d:\\college\\skills\\full stack\\iti\\intro to c#\\iti-oop-labs\\lap4\\lap4.2\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19F8FF5-368A-4F28-A89D-65F0A2B58307}|Lap4.2\\Lap4.2.csproj|solutionrelative:lap4.2\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19F8FF5-368A-4F28-A89D-65F0A2B58307}|Lap4.2\\Lap4.2.csproj|d:\\college\\skills\\full stack\\iti\\intro to c#\\iti-oop-labs\\lap4\\lap4.2\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19F8FF5-368A-4F28-A89D-65F0A2B58307}|Lap4.2\\Lap4.2.csproj|solutionrelative:lap4.2\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19F8FF5-368A-4F28-A89D-65F0A2B58307}|Lap4.2\\Lap4.2.csproj|d:\\college\\skills\\full stack\\iti\\intro to c#\\iti-oop-labs\\lap4\\lap4.2\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19F8FF5-368A-4F28-A89D-65F0A2B58307}|Lap4.2\\Lap4.2.csproj|solutionrelative:lap4.2\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19F8FF5-368A-4F28-A89D-65F0A2B58307}|Lap4.2\\Lap4.2.csproj|d:\\college\\skills\\full stack\\iti\\intro to c#\\iti-oop-labs\\lap4\\lap4.2\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19F8FF5-368A-4F28-A89D-65F0A2B58307}|Lap4.2\\Lap4.2.csproj|solutionrelative:lap4.2\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9512112A-54DB-4EE2-8BEA-F0AE10CA951E}|Lap4.1\\Lap4.1.csproj|d:\\college\\skills\\full stack\\iti\\intro to c#\\iti-oop-labs\\lap4\\lap4.1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9512112A-54DB-4EE2-8BEA-F0AE10CA951E}|Lap4.1\\Lap4.1.csproj|solutionrelative:lap4.1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9512112A-54DB-4EE2-8BEA-F0AE10CA951E}|Lap4.1\\Lap4.1.csproj|d:\\college\\skills\\full stack\\iti\\intro to c#\\iti-oop-labs\\lap4\\lap4.1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9512112A-54DB-4EE2-8BEA-F0AE10CA951E}|Lap4.1\\Lap4.1.csproj|solutionrelative:lap4.1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9512112A-54DB-4EE2-8BEA-F0AE10CA951E}|Lap4.1\\Lap4.1.csproj|d:\\college\\skills\\full stack\\iti\\intro to c#\\iti-oop-labs\\lap4\\lap4.1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9512112A-54DB-4EE2-8BEA-F0AE10CA951E}|Lap4.1\\Lap4.1.csproj|solutionrelative:lap4.1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9512112A-54DB-4EE2-8BEA-F0AE10CA951E}|Lap4.1\\Lap4.1.csproj|d:\\college\\skills\\full stack\\iti\\intro to c#\\iti-oop-labs\\lap4\\lap4.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9512112A-54DB-4EE2-8BEA-F0AE10CA951E}|Lap4.1\\Lap4.1.csproj|solutionrelative:lap4.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lap4\\Lap4.2\\Circle.cs",
+              "RelativeDocumentMoniker": "Lap4.2\\Circle.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lap4\\Lap4.2\\Circle.cs",
+              "RelativeToolTip": "Lap4.2\\Circle.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T08:39:45.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lap4\\Lap4.2\\Triangle.cs",
+              "RelativeDocumentMoniker": "Lap4.2\\Triangle.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lap4\\Lap4.2\\Triangle.cs",
+              "RelativeToolTip": "Lap4.2\\Triangle.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowBQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T12:09:01.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lap4\\Lap4.2\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Lap4.2\\Rectangle.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lap4\\Lap4.2\\Rectangle.cs",
+              "RelativeToolTip": "Lap4.2\\Rectangle.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T12:06:16.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lap4\\Lap4.2\\Shape.cs",
+              "RelativeDocumentMoniker": "Lap4.2\\Shape.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lap4\\Lap4.2\\Shape.cs",
+              "RelativeToolTip": "Lap4.2\\Shape.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T12:01:06.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lap4\\Lap4.2\\Program.cs",
+              "RelativeDocumentMoniker": "Lap4.2\\Program.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lap4\\Lap4.2\\Program.cs",
+              "RelativeToolTip": "Lap4.2\\Program.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAYwAgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:56:12.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lap4\\Lap4.1\\Employee.cs",
+              "RelativeDocumentMoniker": "Lap4.1\\Employee.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lap4\\Lap4.1\\Employee.cs",
+              "RelativeToolTip": "Lap4.1\\Employee.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowBoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:11:27.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lap4\\Lap4.1\\Student.cs",
+              "RelativeDocumentMoniker": "Lap4.1\\Student.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lap4\\Lap4.1\\Student.cs",
+              "RelativeToolTip": "Lap4.1\\Student.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:11:09.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lap4\\Lap4.1\\Person.cs",
+              "RelativeDocumentMoniker": "Lap4.1\\Person.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lap4\\Lap4.1\\Person.cs",
+              "RelativeToolTip": "Lap4.1\\Person.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAswDcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:10:54.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lap4\\Lap4.1\\Program.cs",
+              "RelativeDocumentMoniker": "Lap4.1\\Program.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\intro to C#\\iti-oop-labs\\Lap4\\Lap4.1\\Program.cs",
+              "RelativeToolTip": "Lap4.1\\Program.cs",
+              "ViewState": "AQIAAKQAAAAAAAAAAAAYwAUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:10:20.079Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
